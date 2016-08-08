@@ -933,7 +933,7 @@
 
 	#header {
 		background: #4a4a99;
-		color: #c9e9f4;
+		color: #c8e7f4;
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -955,7 +955,7 @@
 		}
 
 		#header a {
-			color: #c9e9f4;
+			color: #e8e7f4;
 		}
 
 			#header a:hover {
@@ -978,7 +978,7 @@
 			}
 
 			#header > header p {
-				color: #c9e9f4;
+				color: #e8e7f4;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -996,7 +996,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #c9e9f4;
+					color: #e8e7f4;
 				}
 
 		#header > nav ul {

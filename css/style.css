@@ -951,7 +951,7 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #5e5eaa;
 		}
 
 		#header a {
@@ -1006,7 +1006,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #5ccfb0;
+				border-top: solid 2px #5e5eaa;
 				display: block;
 				padding: 0;
 			}

@@ -52,7 +52,15 @@
 
 /* Features */
 
-	.features article .image, .excerpt img {
+	.features article .image {
+		display: none;
+		margin: 0 0 2.25em 0;
+		padding-right: 0;
+		width: 100%;
+	} 
+	
+	
+	.excerpt img {
 		display: block;
 		margin: 0 0 2.25em 0;
 		padding-right: 0;

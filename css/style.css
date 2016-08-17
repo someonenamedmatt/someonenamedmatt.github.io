@@ -538,6 +538,14 @@
 					padding-top: 0;
 				}
 
+		.green {
+			background: #0bad72;
+		}
+		
+		.red {
+			background: #fe6549;	
+		}
+		
 		ul.feature-icons {
 			list-style: none;
 			padding-left: 0;
